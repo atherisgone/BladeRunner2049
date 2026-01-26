@@ -1,6 +1,6 @@
 # 🌆 Blade Runner 2049 – Environment Study (Unreal Engine 5)
 
-A **cinematic environment project** built in **Unreal Engine 5**, inspired by the visual language, atmosphere, and scale of *Blade Runner 2049*. This project focuses on **mood, lighting, composition, and world-building**, not gameplay.
+A **cinematic environment project** built in **Unreal Engine 5**, inspired by the visual language, atmosphere, and scale of *Blade Runner 2049*. This project focuses on **mood, lighting, composition, and world-building**.
 
 ---
 
@@ -53,10 +53,10 @@ A **cinematic environment project** built in **Unreal Engine 5**, inspired by th
 
 ## 🚧 Project Status
 
-✅ Environment blockout completed
-✅ Lighting and mood pass completed
-✅ Cinematic cameras set up
-🔧 Additional shots ongoing
+✅ Environment blockout completed  
+✅ Lighting and mood pass completed  
+✅ Cinematic cameras set up  
+🔧 Additional shots ongoing  
 
 ---
 
