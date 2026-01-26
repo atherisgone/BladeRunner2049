@@ -38,7 +38,7 @@ A **cinematic environment project** built in **Unreal Engine 5**, inspired by th
 
 > High‑resolution still renders and cinematic shots are captured directly from Unreal Engine using the Movie Render Queue.
 
-![SunsetWalk](Media/SunsetWalk.png)  
+![SunsetWalk](Media/SunsetWalk.gif)  
 
 ![Wideshot](Media/wideshot.gif)  
 
