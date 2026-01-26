@@ -40,7 +40,7 @@ A **cinematic environment project** built in **Unreal Engine 5**, inspired by th
 
 ![SunsetWalk](Media/SunsetWalk.png)  
 
-![Wideshot](Media/Wideshot.gif)  
+![Wideshot](Media/wideshot.gif)  
 
 ---
 
