@@ -103,7 +103,6 @@ The focus is on:
 ✅ Environment layouts finalized  
 ✅ Lighting and atmosphere pass completed  
 ✅ Cinematic cameras established  
-🔧 Ongoing refinement of materials and shot composition  
 
 ---
 
